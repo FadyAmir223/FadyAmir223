@@ -1,8 +1,5 @@
-# Hi there, I'm Fady Amir 👋
+Hey there! I'm Fady, You might say I approach coding like a game of chess - strategic, methodical, and always thinking several moves ahead. But unlike chess, in programming, the pawns drink coffee, the knights debug, and the queen is a well-commented function that does all the work!
 
-
-## 💫 About Me:
-- 🔭 I’m currently working on spotify traefik config in VPS for production<br>🌱 I’m currently learning advancd techniques in next.js<br>📫 How to reach me: fadyamir223@gmail.com<br>😄 my secret receipt “Dedication and enough time with analytical thinking”
 
 
 ## 🌐 Socials:
@@ -36,9 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=FadyAmir223&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FadyAmir223&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FadyAmir223&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FadyAmir223&icon=0&color=0)](https://visitcount.itsvg.in)
